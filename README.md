@@ -1,1 +1,1 @@
-[![Afin's github stats](https://github-readme-stats.vercel.app/api?username=muhammadafin)](https://github.com/anuraghazra/github-readme-stats
+[![Afin's github stats](https://github.com/anuraghazra/github-readme-stats)
