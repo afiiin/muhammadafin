@@ -1,4 +1,5 @@
-![Hey there, I'm Muhammad Afin. I'm a Student, a Human and Code enthusiast. Check out my work]
+<h2 align="center">I'm Muhammad Afin</h2>
+<h3 align="center">Student, a Human and Code enthusiast</h3>
 
 <div align="center">
   <h3 align="center">Connect with me</h3> 
@@ -21,6 +22,6 @@
  </a> 
  
 </p>
-<p align="center">
+
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muhammadafin)
-</p>
+ 
