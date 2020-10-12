@@ -26,5 +26,9 @@
  
 </p>
 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muhammadafin)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadafin&&show_icons=true" alt="Afin's Github Stats">
+</p>  
+
+ ![Anurag's github stats]()
  
