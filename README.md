@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 style="color:blue;">I'm Muhammad Afin</h3>
+  <h3>👋 I'm Muhammad Afin 👋</h3>
   <h3>Student, a Human and Code enthusiast</h3>
 </div><br>
 
@@ -29,5 +29,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadafin&&show_icons=true" alt="Afin's Github Stats">
 </p>  
+
+
 
  
