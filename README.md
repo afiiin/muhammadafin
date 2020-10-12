@@ -14,10 +14,10 @@
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://web.facebook.com/muhammad.afin.777" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" /> &nbsp; &nbsp;
  </a> 
  <a href="mailto:muhammadafin787@gmail.com" target="blank">
-  <img align="center" alt="Afin's Email" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <img align="center" alt="Afin's Email" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
  </a> 
 </p>
 
