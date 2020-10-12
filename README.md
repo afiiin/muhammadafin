@@ -1,5 +1,5 @@
-<h2 align="center">I'm Muhammad Afin</h2>
-<h3 align="center">Student, a Human and Code enthusiast</h3>
+## <h2 align="center">I'm Muhammad Afin</h2>
+## <h3 align="center">Student, a Human and Code enthusiast</h3>
 
 <div align="center">
   <h3 align="center">Connect with me</h3> 
