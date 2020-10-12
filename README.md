@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="activity-profile-result2.png">
 </div>
 
