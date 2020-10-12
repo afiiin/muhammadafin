@@ -1,5 +1,5 @@
-<div align="center">
-  <p style="font-size: 45px">I'm Muhammad Afin</p>
+## <div align="center">
+  <h3>I'm Muhammad Afin</p>
   <h2>Student, a Human and Code enthusiast</h3>
 </div>
 
@@ -30,5 +30,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadafin&&show_icons=true" alt="Afin's Github Stats">
 </p>  
 
- ![Anurag's github stats]()
  
