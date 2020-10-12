@@ -1,5 +1,6 @@
 <div>
   <img src="activity-profile-result.png">
+  <img src="activity-profile-result2.png">
 </div>
 
 <div align="center">
