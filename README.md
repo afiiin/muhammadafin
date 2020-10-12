@@ -27,8 +27,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadafin&&show_icons=true" alt="Afin's Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadafin&&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true" alt="Afin's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadafin&&hide=issues&count_private=true&icon_color=000000&title_color=000000&bg_color=ffffff&show_icons=true" alt="Afin's Github Stats">
 </p>  
 
 
