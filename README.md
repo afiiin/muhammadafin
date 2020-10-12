@@ -1,7 +1,7 @@
-## <div align="center">
-  <h3>I'm Muhammad Afin</p>
-  <h2>Student, a Human and Code enthusiast</h3>
-</div>
+<div align="center">
+  <h1>I'm Muhammad Afin</p>
+  <h1>Student, a Human and Code enthusiast</h3>
+</div><br><br>
 
 
 <div align="center">
