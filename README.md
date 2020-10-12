@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color:blue;">I'm Muhammad Afin</p>
+  <h3 style="color:blue;">I'm Muhammad Afin</h3>
   <h3>Student, a Human and Code enthusiast</h3>
 </div><br><br>
 
