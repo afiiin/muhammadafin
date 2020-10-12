@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h3>I'm Muhammad Afin</h1>
-  <h3>Student, a Human and Code enthusiast</h3>
+  <h3 style="font-size: 24px">I'm Muhammad Afin</h1>
+  <h2>Student, a Human and Code enthusiast</h3>
 </div>
 
 
