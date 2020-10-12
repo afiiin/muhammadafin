@@ -1,3 +1,7 @@
+<div>
+  <img src="activity-profile-result.png">
+</div>
+
 <div align="center">
   <h3>👋 I'm Muhammad Afin 👋</h3>
   <h3>Student, a Human and Code enthusiast</h3>
