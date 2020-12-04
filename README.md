@@ -12,22 +12,22 @@
   <h3 align="center">Connect with me</h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/muhammad-afin-a36354175/" target="blank">
+ <a href="https://www.linkedin.com/in/muhammad-afin-a36354175/" target="_blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="mailto:muhammadafin787@gmail.com" target="blank">
+ <a href="mailto:muhammadafin787@gmail.com" target="_blank">
   <img align="center" alt="Afin's Email" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
  </a> 
- <a href="https://www.instagram.com/afiindjokam/" target="blank">
+ <a href="https://www.instagram.com/afiindjokam/" target="_blank">
   <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/Afiin10" target="blank">
+ <a href="https://twitter.com/Afiin10" target="_blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://dev.to/muhammadafin" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" /> &nbsp; &nbsp;
+ <a href="https://dev.to/muhammadafin" target="_blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" /> &nbsp; &nbsp;
  </a> 
- <a href="https://web.facebook.com/muhammad.afin.777" target="blank">
+ <a href="https://web.facebook.com/muhammad.afin.777" target="_blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
  </a> 
  
